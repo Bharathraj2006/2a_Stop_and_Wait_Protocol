@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-## Register no: 212223230031
 ## Name : P.Bharathraj
+## Register no: 212223230031
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -40,9 +40,10 @@ while True:
 ```
 ## OUTPUT
 ### Client:
-![Screenshot 2024-04-14 151742](https://github.com/Bharathraj2006/2a_Stop_and_Wait_Protocol/assets/152376845/4c6363ed-09db-4d34-a0e7-5b09591426af)
+![image](https://github.com/Bharathraj2006/2a_Stop_and_Wait_Protocol/assets/152376845/d166cc88-c7ce-4a56-bce5-dc957f298234)
+
 ### Server:
-![Screenshot 2024-04-14 151813](https://github.com/Bharathraj2006/2a_Stop_and_Wait_Protocol/assets/152376845/861f7a78-5a36-4c68-8a4b-2f69c5700b27)
+![image](https://github.com/Bharathraj2006/2a_Stop_and_Wait_Protocol/assets/152376845/68dcf2e7-f18d-40fd-9f9e-4dc7f6f72529)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
